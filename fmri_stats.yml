@@ -1,0 +1,36 @@
+name: fmri_stats
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.10.15
+  - pip==21.2.4
+  - ipython==8.27.0
+  - jupyter==1.0.0
+  - matplotlib==3.9.2
+  - nibabel==5.3.1
+  - nilearn==0.10.3
+  - numpy==1.26.4 
+  - pandas==2.2.2
+  - scikit-learn==1.5.1
+  - scipy==1.13.1
+  - seaborn==0.13.2
+  - tqdm==4.66.5
+  - ffmpeg==6.1.1
+  - imageio==2.33.1
+  - imageio-ffmpeg==0.5.1
+  - pillow==10.4.0
+  - statsmodels==0.14.4
+  - pingouin
+  - sentence-transformers==3.3.0
+  - huggingface_hub==0.24.6
+  - tokenizers==0.20.1
+  - rpy2==3.5.11
+  - pytorch==2.3.0
+
+  - pip:
+      - nltools==0.4.7
+
+
+
+# prefix: /dartfs-hpc/rc/lab/K/KraemerD/sharedconda/miniconda3/envs/fmri_stats
