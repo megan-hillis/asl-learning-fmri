@@ -1,5 +1,5 @@
 # asl-learning-fmri
-Repo for ASL Learning fMRI study (2026 manuscript)
+Repo for ASL Learning RSA fMRI study (2026 manuscript)
 
 In this repo:
 - fmri_stats.yml
